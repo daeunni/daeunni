@@ -1,4 +1,7 @@
 ### Hi there 👋
+- Currently interested in **Recommender System** 💻  & **Statistical Machine Learning** 📈📊
+- Korea Univ. Statistic 19 👩🏻
+
 
 <!--
 **daeunni/daeunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
