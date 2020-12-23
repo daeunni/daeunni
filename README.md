@@ -1,6 +1,9 @@
-### Hi there 👋
-- Currently interested in **Recommender System** 💻  & **Statistical Machine Learning** 📈📊
-- Korea Univ. Statistic 19 👩🏻
+## Hi there 👋
+#### - Currently interested in **Recommender System** 💻  & **Statistical Machine Learning** 📈📊
+
+- Korea Univ. Statistics 19 👩🏻 & BOAZ 14 ✨
+
+- For my study records 🥰
 
 
 <!--
