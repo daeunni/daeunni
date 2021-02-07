@@ -5,6 +5,7 @@
 
 - For my study records 🥰
 
+#### - Hope to be good at Data Structure & Algorithms & 
 
 <!--
 **daeunni/daeunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
