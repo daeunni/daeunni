@@ -8,7 +8,7 @@
 #### - Hope to be good at Data Structure & Algorithms & CS
 
 #### - Contect 
-goodgpt@naver.com
+goodgpt@naver.com        
 https://daeun-computer-uneasy.tistory.com/
 
 
