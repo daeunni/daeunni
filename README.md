@@ -1,25 +1,25 @@
-## [ 1. About me 💻👩🏻 ] 
+## **[ 1. About me 💻👩🏻 ]** 
 - Korea Univ. Statistics & AI 
 - BOAZ 14's 
 - KQR 7's 
 
-### 1) Begin ML at 2019 Winter ~
+#### 1) Begin ML at 2019 Winter ~
 
-### 2) Contect 
+#### 2) Contect 
 📩 goodgpt@naver.com        
 📃 https://daeun-computer-uneasy.tistory.com/
 
 
 -----
 
-## [ 2. Interests💕 ] 
+## **[ 2. Interests💕 ]** 
 - Recommender System
 - Financial Data Analysis 
 - Statistical Machine Learning
 
 ----- 
 
-## [ 3. Contests & Projects 📈📊 ] 
+## **[ 3. Contests & Projects 📈📊 ]** 
 - Kakao Arena(2019) Melon Playlist Recommend system (Top 2%)   
 
 - 2020 금융 빅데이터 페스티벌(2020) 보험금 청구 분야 (1위)        
