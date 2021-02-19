@@ -1,5 +1,5 @@
 ## **[ 1. About me 💻👩🏻 ]** 
-- Korea Univ. Statistics & AI 
+- Korea Univ. Statistics & AI 19
 - BOAZ 14's 
 - KQR 7's 
 
