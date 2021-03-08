@@ -5,7 +5,7 @@
 
 #### 1) Begin ML at 2019 Winter ~
 
-#### 2) Contect 
+#### 2) Contact 
 📩 goodgpt@naver.com        
 📃 https://daeun-computer-uneasy.tistory.com/
 
