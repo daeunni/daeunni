@@ -3,7 +3,7 @@
 - BOAZ 14's 
 - KQR 7's 
 
-#### 1) Begin ML at 2019 Winter ~
+#### 1) Begin ML at 2020 ~
 
 #### 2) Contact 
 📩 goodgpt@naver.com        
@@ -13,9 +13,9 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Recommender System
 - Financial Data Analysis 
-- Statistical Machine Learning
+- Statistical ML & DL
+- Recommender System
 
 ----- 
 
