@@ -13,9 +13,9 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Financial Data Analysis 
+- XAI (eXplainable AI)
+- Reinforcement Learning (RL)
 - Statistical ML & DL
-- Recommender System
 
 ----- 
 
