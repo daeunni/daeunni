@@ -13,7 +13,6 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- XAI (eXplainable AI)
 - Reinforcement Learning (RL)
 - Statistical ML & DL
 
