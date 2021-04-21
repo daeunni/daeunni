@@ -13,9 +13,9 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Reinforcement Learning (RL)
+- Self-driving 🚘
 - Statistical ML & DL
-
+- Reinforcement Learning (RL)
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
