@@ -19,7 +19,7 @@
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
-- [ Kakao Arena(2019) Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
+- [ Kakao Arena(2020) Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
 
 - [ 금융 빅데이터 페스티벌(2020) 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
 
