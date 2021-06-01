@@ -13,7 +13,7 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Statistical ML & DL
+- Computer Vision
 - Self-driving 
 ----- 
 
