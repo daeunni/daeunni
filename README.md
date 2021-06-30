@@ -22,7 +22,7 @@
 
 - [ 2020 금융 빅데이터 페스티벌 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
 
-- 2021 디지털 산업혁신 빅데이터 공모전 (우수상, 2위)
+- [ 2021 디지털 산업혁신 빅데이터 공모전 (우수상, 2위) ](https://github.com/daeunni/KED_Project)
 
 <!--
 **daeunni/daeunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
