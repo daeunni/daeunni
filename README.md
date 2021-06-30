@@ -18,11 +18,11 @@
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
-- [ Kakao Arena(2020) Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
+- [ 2020 Kakao Arena Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
 
-- [ 금융 빅데이터 페스티벌(2020) 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
+- [ 2020 금융 빅데이터 페스티벌 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
 
-
+- 2021 디지털 산업혁신 빅데이터 공모전 (우수상, 2위)
 
 <!--
 **daeunni/daeunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
