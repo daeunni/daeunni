@@ -13,8 +13,8 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Computer Vision
-- Self-driving 
+- Computer Vision (Domain Generalization)
+- Self-supervised learning
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
