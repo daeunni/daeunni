@@ -14,7 +14,7 @@
 
 ## **[ 2. Interests💕 ]** 
 - Computer Vision (Domain Generalization)
-- Self-supervised learning
+- eXplainable AI
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
