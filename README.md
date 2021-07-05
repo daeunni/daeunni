@@ -13,7 +13,6 @@
 -----
 
 ## **[ 2. Interests💕 ]** 
-- Computer Vision (Domain Generalization)
 - eXplainable AI
 ----- 
 
