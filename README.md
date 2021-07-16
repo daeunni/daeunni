@@ -14,12 +14,16 @@
 
 ## **[ 2. Interests💕 ]** 
 - eXplainable AI
+- Self-supervised learning
+- Domain Generalization
 ----- 
 
 ## **[ 3. Contests & Projects 📈📊 ]** 
 - [ 2020 Kakao Arena Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
 
 - [ 2020 금융 빅데이터 페스티벌 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
+
+- 2021 BOAZ 컨퍼런스 : Pose Estimation을 활용한 AI Home traniner
 
 - [ 2021 디지털 산업혁신 빅데이터 공모전 (우수상, 2위) ](https://github.com/daeunni/KED_Project)
 
