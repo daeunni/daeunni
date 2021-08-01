@@ -1,7 +1,8 @@
 ## **[ 1. About me 💻👩🏻 ]** 
 - Korea Univ. Statistics & AI 19
 - BOAZ 14's 
-- [CV](https://github.com/daeunni/daeunni/files/6483770/CV.21.05.15.pdf)
+- Vision & AI LAB 
+- [CV](https://github.com/daeunni/daeunni/files/6912552/CV.0725.pdf)
 
 #### 1) Begin ML at 2020 ~
 
