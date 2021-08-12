@@ -1,25 +1,23 @@
-## **[ 1. About me 💻👩🏻 ]** 
+## **1. About me 💻👩🏻** 
 - Korea Univ. Statistics & AI 19
 - BOAZ 14's 
 - Vision & AI LAB 
 - [CV](https://github.com/daeunni/daeunni/files/6912552/CV.0725.pdf)
 
-#### 1) Begin ML at 2020 ~
-
-#### 2) Contact 
+#### Contact 
 📩 goodgpt@naver.com        
 📃 https://daeun-computer-uneasy.tistory.com/
 
 
 -----
 
-## **[ 2. Interests💕 ]** 
+## **2. Interests💕** 
 - eXplainable AI
 - Self-supervised learning
 - Domain Generalization
 ----- 
 
-## **[ 3. Contests & Projects 📈📊 ]** 
+## **3. Contests & Projects 📈📊** 
 - [ 2020 Kakao Arena Melon Playlist Recommend system (Top 2%) ](https://github.com/daeunni/kakao-arena)
 
 - [ 2020 금융 빅데이터 페스티벌 보험금 청구 분야 (1위) ](https://github.com/daeunni/Insurance-contest)
