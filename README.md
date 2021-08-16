@@ -12,9 +12,9 @@
 -----
 
 ## **2. Interests💕** 
+- Domain Generalization
 - eXplainable AI
 - Self-supervised learning
-- Domain Generalization
 ----- 
 
 ## **3. Contests & Projects 📈📊** 
