@@ -1,7 +1,7 @@
 ## **1. About me 💻👩🏻** 
 - Korea Univ. Statistics & AI 19
 - BOAZ 14's 
-- Vision & AI LAB 
+- [Vision & AI lab](https://visionai.korea.ac.kr)  
 - [CV](https://github.com/daeunni/daeunni/files/6912552/CV.0725.pdf)
 
 #### Contact 
