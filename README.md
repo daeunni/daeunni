@@ -12,9 +12,9 @@
 -----
 
 ## **2. Interests💕** 
+- eXplainable AI (Visual Language) 
+- Self-driving 
 - Domain Generalization
-- eXplainable AI
-- Self-supervised learning
 ----- 
 
 ## **3. Contests & Projects 📈📊** 
