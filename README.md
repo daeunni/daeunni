@@ -11,7 +11,7 @@
 
 
 
-## ✔️ Contests & Projects 📈📊
+## ✔️Projects 📈📊
 
 |Perpose|Year|Name|Result|
 |:-----:|------|--------------|:-----:|
