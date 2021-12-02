@@ -1,5 +1,5 @@
 ## ✔️ About me 
-- [CV](https://github.com/daeunni/daeunni/files/6912552/CV.0725.pdf)       
+💕 XAI / Representation learning / Multimodal / GNN / Behavior prediction   
 
 
 
