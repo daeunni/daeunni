@@ -19,5 +19,5 @@
 |Research👩🏻‍💻|2021|Domain Generalization experiments|    |
 |           |2021|Colorization projects experiments|   |
 |           |2021|Trajectory prediction|   |
-
+|           |2021|Multitask learning|   |
 
