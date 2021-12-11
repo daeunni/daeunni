@@ -1,5 +1,7 @@
 ## ✔️ About me 
-💕 XAI / Representation learning / Multimodal / GNN / Behavior prediction   
+     💕 Hope to be AI researcher :D      
+  
+     💕 XAI / Representation learning / Multimodal / GNN / Behavior prediction   
 
 
 
@@ -17,7 +19,7 @@
 |Project👩🏻‍💻|2021|AI hometrainer using Pose Estimation|   |
 |         |2021|[Quant Analysis](https://github.com/daeunni/Quant-Analysis)|    |
 |Research👩🏻‍💻|2021|Domain Generalization experiments|    |
-|           |2021|Colorization projects experiments|   |
-|           |2021|Trajectory prediction|   |
-|           |2021|Multitask learning|   |
+|           |2021|Colorization projects experiments|under review   |
+|           |2021|Trajectory prediction|under review   |
+|           |2021|Multitask learning|present   |
 
