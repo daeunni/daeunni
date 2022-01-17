@@ -1,7 +1,7 @@
 ## ✔️ About me 
      💕 Hope to be AI researcher :D      
   
-     💕 XAI / Representation learning / Multimodal / GNN / Behavior prediction   
+     💕 XAI / Multimodal / Autonomous driving
 
 
 
