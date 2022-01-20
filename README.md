@@ -3,13 +3,7 @@
   
      💕 XAI / Multimodal / Autonomous driving
 
-
-
-
-
-
-
-## ✔️ Projects 📈📊
+<!-- ## ✔️ Projects 📈📊
 
 |Perpose|Year|Name|Result|
 |:-----:|------|--------------|:-----:|
@@ -21,5 +15,5 @@
 |Research👩🏻‍💻|2021|Domain Generalization experiments|    |
 |           |2021|Colorization projects experiments|under review   |
 |           |2021|Trajectory prediction|under review   |
-|           |2021|Multitask learning|present   |
+|           |2021|Multitask learning|present   | -->
 
