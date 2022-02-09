@@ -1,4 +1,4 @@
-## ✔️ About me 
+## 🧸 About me 
      💕 Hope to be AI researcher :D      
   
      💕 XAI / Multimodal / Autonomous driving
