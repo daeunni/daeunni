@@ -1,5 +1,5 @@
 ## 🧸 About me 
-     💕 Hope to be AI researcher :D      
+     💕 Hope to be an AI researcher :D      
   
      💕 XAI / Multimodal / Autonomous driving
 
