@@ -1,5 +1,5 @@
 <!-- ## 🧸 About me  -->
-## *Currently interested in 🧐*
+## *Currently interested in.. 🧐*
 * **Autonomous Driving** 🚙 
 * Computer Vision 🔥
 * Problem Solving 
