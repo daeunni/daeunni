@@ -1,4 +1,6 @@
 <!-- ## 🧸 About me  -->
+     Make contibutions to the world using AI ✨
+
 ## *Currently interested in.. 🧐*
 * **Autonomous Driving** 🚙 
 * Computer Vision 🔥
