@@ -1,7 +1,16 @@
-## 🧸 About me 
+<!-- ## 🧸 About me  -->
+## *Currently interested in 🧐*
+* **Autonomous Driving** 🚙 
+* Computer Vision 🔥
+* Problem Solving 
+
+<!-- ## Currently worked in 
+* NAVER LABS Intern -->
+
+<!-- ## 🧸 About me 
      💕 부족한 것도 많고 배우고 싶은 것도 많습니다!
   
-     💕 세상에 직접적인 contribution을 낼 수 있는 AI researcher를 꿈꿉니다 :)
+     💕 세상에 직접적인 contribution을 낼 수 있는 AI researcher를 꿈꿉니다 :) -->
      
 <!-- ## ✔️ Projects 📈📊
 
