@@ -6,7 +6,7 @@
 * Computer Vision 🔥
 * Problem Solving 
 
-## *Currently working at.. 🧐*
+## *Currently working at.. *
 * Vision & AI Lab
 * NAVER LABS Intern (soon)
 
