@@ -7,8 +7,8 @@
 * Problem Solving 
 
 ## *Currently working at..*
+* NAVER LABS Intern 
 * Vision & AI Lab
-* NAVER LABS Intern (soon)
 
 <!-- ## Currently worked in 
 * NAVER LABS Intern -->
