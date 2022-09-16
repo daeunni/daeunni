@@ -4,7 +4,6 @@
 ## *Currently interested in.. 🧐*
 * **Autonomous Driving** 🚙 
 * Computer Vision 🔥
-* Problem Solving 
 
 ## *Currently working at..*
 * NAVER LABS Intern 
